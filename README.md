@@ -1,99 +1,146 @@
-<p align="center">
-  <img width="860" alt="banner" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&pause=500&color=00F5FF&center=true&vCenter=true&width=860&lines=🚀+Hi%2C+I'm+Aamir+Jamil+|+Full+Stack+Developer;⚡+MERN+%7C+NestJS+%7C+Fastify+%7C+React+%7C+Redux;🔥+Automation+%26+Scalable+Apps+Builder" />
-</p>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Aamir Jamil
 
-<p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Expert+%E2%9A%A1;Building+Scalable+Applications+%F0%9F%94%A5;4%2B+Years+of+Experience+%F0%9F%92%BC;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> About Me
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360px"/>
+
+- 🔥 **4+ Years Experience** → Started as Manual QA, evolved into Full Stack Developer
+- 🚀 Passionate about building **scalable, high-performance web applications**
+- 💡 Love creating **automation tools** that solve real-world problems
+- 🤝 Always up for **collaboration** and learning new technologies
+- 🎯 Currently exploring **AI-driven automation** and **microservices**
+- 📫 Reach me at: **aamirjamil25999@gmail.com**
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Connect with Me
+
+<div align="center">
   <a href="mailto:aamirjamil25999@gmail.com">
-    <img src="https://img.shields.io/badge/🔥-Open+to+Work-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
-  <a href="https://dancing-heliotrope-ae19cb.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/📂-Portfolio-purple?style=for-the-badge&logo=netlify" />
+  <a href="https://www.linkedin.com/in/aamir-jamil-4266401b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/aamir-jamil-4266401b5/" target="_blank">
-    <img src="https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://dancing-heliotrope-ae19cb.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
   </a>
-</p>
-
+  <a href="https://github.com/aamirjamil25999">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+</div>
 
 ---
 
-## 👨‍💻 About Me  
-- 🚀 **4+ years experience** → 2 years Manual QA + 2 years Full Stack Development  
-- 🔧 Skilled in building **scalable, high-performance web applications**  
-- 🤝 Passionate about **automation, clean code, and real-world problem solving**  
-- 🌍 Always exploring **cutting-edge tech** to improve developer & user experience  
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Tech Arsenal
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="25"> Frontend Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap&theme=dark" />
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> Backend Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastify,python,django&theme=dark" />
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="25"> Database & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,docker,nginx&theme=dark" />
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25"> Tools & Others
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" />
+</div>
 
 ---
 
-## 🚀 Featured Projects  
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Featured Projects
 
-| Project | What I Built & Why It Matters |
+<div align="center">
+
+| <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> Project | <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Description |
 |---|---|
-| 📲 **WhatsApp Marketing Platform** | Built an automation-based customer engagement tool with **WhatsApp Business API**. <br>✨ Features: bulk broadcasting, AI-powered chatbots, campaign workflows, analytics dashboards, and Razorpay payments. <br>🚀 Helped businesses **scale communication & boost sales**. |
-| 🧳 **Travel & Tours Booking Platform** | Designed a **full-stack travel booking system** with secure authentication, property listings, payments, and admin dashboards. <br>⚡ Optimized for **performance, scalability, and real-world concurrency**. |
-| 🔧 **Other Projects** | Created tools & apps in **React, Redux, Node.js, and API design** to keep sharpening skills & contribute to open source. |
+| **📱 WhatsApp Marketing Platform** | <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Built automation-based customer engagement tool<br>✨ **Features:** Bulk messaging, AI chatbots, analytics, payments<br>🚀 **Impact:** Helped businesses scale communication & boost sales |
+| **🧳 Travel & Tours Platform** | <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Full-stack travel booking system<br>⚡ **Features:** Auth, property listings, payments, admin dashboard<br>🎯 **Focus:** Performance, scalability, real-world concurrency |
+| **🔧 Automation Tools** | <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Various React, Node.js applications<br>🌟 **Purpose:** Skill enhancement & open source contribution<br>💡 **Focus:** Clean code, best practices, innovation |
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+## <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="30"> GitHub Analytics
 
-<p align="center">
-  <!-- Frontend -->
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  &nbsp;&nbsp;
-  <!-- Backend -->
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-20232A?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge" />
-  &nbsp;&nbsp;
-  <!-- DB & Other -->
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-2D9CDB?style=for-the-badge" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p> 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aamirjamil25999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamirjamil25999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamirjamil25999&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aamirjamil25999&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed4b20.png" width="30"> Achievements & Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aamirjamil25999&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamirjamil25999&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aamirjamil25999&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aamirjamil25999&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+</div>
 
 ---
 
-## 🏆 Achievements  
+## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"> Current Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aamirjamil25999&theme=radical&row=1&column=6" alt="Trophies" />
-</p>
+<div align="center">
+
+```javascript
+const aamir = {
+  currentlyLearning: ["AI/ML Integration", "Microservices Architecture"],
+  exploring: ["DevOps Pipelines", "Real-time Systems", "Cloud Native"],
+  goals: ["Build scalable solutions", "Contribute to open source"],
+  funFact: "I debug faster with coffee ☕"
+};
+```
+
+</div>
+
+- 🧠 **AI-driven automation** - Building intelligent chatbots & workflows
+- ⚡ **Real-time systems** - Exploring WebSockets, Server-Sent Events
+- 📊 **Advanced integrations** - API design, third-party services
+- 🚀 **DevOps & Scalability** - Docker, AWS, CI/CD pipelines
 
 ---
 
-## 🔭 Currently Exploring  
-- 🧠 AI-driven automation (chatbots & workflows)  
-- ⚡ Real-time systems & microservices with scalability focus  
-- 📊 Advanced API integrations & DevOps pipelines  
+## <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd0-a8c0-a390bb80fff4.gif" width="30"> Let's Build Something Amazing Together!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+to+exciting+opportunities!;Let's+collaborate+and+innovate!;Building+the+future%2C+one+line+at+a+time!;Always+ready+for+new+challenges!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+</div>
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aamirjamil25999&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F70D91&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Automation+Enthusiast;Building+Scalable+Apps;Open+to+Collaboration+%26+Innovation" />
-</p>
-
-
-<!---
-aamirjamil25999/aamirjamil25999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
