@@ -37,27 +37,25 @@
 
 ## 🛠️ Tech Stack  
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-![Fastify](https://img.shields.io/badge/Fastify-20232A?style=for-the-badge&logo=fastify&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-**Other:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest-api&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+<p align="center">
+  <!-- Frontend -->
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  &nbsp;&nbsp;
+  <!-- Backend -->
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-20232A?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge" />
+  &nbsp;&nbsp;
+  <!-- DB & Other -->
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-2D9CDB?style=for-the-badge" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p> 
 
 ---
 
@@ -89,13 +87,6 @@
 
 ---
 
-## 📬 Let’s Connect  
-
-- 🌐 **Portfolio:** [Click Here](https://dancing-heliotrope-ae19cb.netlify.app/)  
-- 💼 **LinkedIn:** [linkedin.com/in/aamir-jamil-4266401b5](https://www.linkedin.com/in/aamir-jamil-4266401b5/)  
-- 📧 **Email:** aamirjamil25999@gmail.com  
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F70D91&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Automation+Enthusiast;Building+Scalable+Apps;Open+to+Collaboration+%26+Innovation" />
