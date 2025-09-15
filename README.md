@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Aamir Jamil
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Expert+%E2%9A%A1;Building+Scalable+Applications+%F0%9F%94%A5;4%2B+Years+of+Experience+%F0%9F%92%BC;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Expert+%E2%9A%A1;Building+Scalable+Applications+%F0%9F%94%A5;4%2B+Years+of+Experience+%F0%9F%92%BC;Always+Learning+%26+Growing+%F0%9F%8C%B1;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,6 +15,7 @@
 - 🔥 **4+ Years Experience** → Started as Manual QA, evolved into Full Stack Developer
 - 🚀 Passionate about building **scalable, high-performance web applications**
 - 💡 Love creating **automation tools** that solve real-world problems
+- 🧩 **Problem Solver** → Regular LeetCode practice & algorithmic thinking
 - 🤝 Always up for **collaboration** and learning new technologies
 - 🎯 Currently exploring **AI-driven automation** and **microservices**
 - 📫 Reach me at: **aamirjamil25999@gmail.com**
@@ -35,6 +36,9 @@
   </a>
   <a href="https://github.com/aamirjamil25999">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/AamirJamil/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
   </a>
 </div>
 
@@ -95,6 +99,34 @@
 
 ---
 
+## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30"> Coding Analytics
+
+<div align="center">
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"> LeetCode Stats
+
+<!-- LeetCode Stats Card -->
+<img src="https://leetcard.jacoblin.cool/AamirJamil?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" width="500"/>
+
+<!-- LeetCode Progress Badge -->
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAamirJamil&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+
+</div>
+
+<!-- Manual LeetCode Profile Section -->
+<div align="center">
+
+### 🧩 **Problem Solving Journey**
+
+| 🏆 **Platform** | 🎯 **Profile** | 📊 **Focus Areas** |
+|---|---|---|
+| **LeetCode** | [**@AamirJamil**](https://leetcode.com/u/AamirJamil/) | 📈 **Data Structures & Algorithms** |
+| **Status** | 🔥 **Active Solver** | 🚀 **Continuous Learning** |
+
+</div>
+
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed4b20.png" width="30"> Achievements & Trophies
 
 <div align="center">
@@ -111,6 +143,7 @@
 const aamir = {
   currentlyLearning: ["AI/ML Integration", "Microservices Architecture"],
   exploring: ["DevOps Pipelines", "Real-time Systems", "Cloud Native"],
+  coding: ["Data Structures & Algorithms", "System Design"],
   goals: ["Build scalable solutions", "Contribute to open source"],
   funFact: "I debug faster with coffee ☕"
 };
@@ -120,6 +153,7 @@ const aamir = {
 
 - 🧠 **AI-driven automation** - Building intelligent chatbots & workflows
 - ⚡ **Real-time systems** - Exploring WebSockets, Server-Sent Events
+- 🧩 **Problem Solving** - Regular practice on LeetCode & algorithmic challenges
 - 📊 **Advanced integrations** - API design, third-party services
 - 🚀 **DevOps & Scalability** - Docker, AWS, CI/CD pipelines
 
