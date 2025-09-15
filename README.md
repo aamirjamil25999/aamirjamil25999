@@ -53,7 +53,8 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> Backend Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastify,python,django&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,django&theme=dark" />
+<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
 </div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="25"> Database & Cloud
