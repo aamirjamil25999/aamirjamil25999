@@ -12,7 +12,7 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360px"/>
 
-- 🔥 **4+ Years Experience** → Started as Manual QA, evolved into Full Stack Developer
+- 🔥 **5+ Years Experience** → Started as Manual QA, evolved into Full Stack Developer
 - 🚀 Passionate about building **scalable, high-performance web applications**
 - 💡 Love creating **automation tools** that solve real-world problems
 - 🧩 **Problem Solver** → Regular LeetCode practice & algorithmic thinking
